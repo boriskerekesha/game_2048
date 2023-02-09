@@ -1,6 +1,6 @@
 # GAME 2048 #
 
-[Link](https://boriskerekesha.github.io/game_2048/)
+[Link](https://boryskerekesha.github.io/game_2048/)
 
 ***
 ### Used technologies: ###
